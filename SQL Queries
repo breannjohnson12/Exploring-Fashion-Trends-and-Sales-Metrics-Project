@@ -1,6 +1,14 @@
--- Top 5 best selling product categories
+-- Top 5 best-selling product categories
 SELECT category, SUM(sales_count) AS total_sales 
 FROM fashion_data 
 GROUP BY category 
 ORDER BY total_sales DESC 
 LIMIT 5;
+
+-- How do sales trends vary over the course of the years 2018-2022
+-- Note: 2020 had the highest amount of sales; I think this is due to the pandemic. 
+--People quarantined at home with nothing to do, leading to more online shopping
+SELECT year_of_sale, SUM(sales_count) AS total_sales
+FROM fashion_data
+GROUP BY year_of_sale
+ORDER BY year_of_sale;
