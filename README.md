@@ -42,4 +42,14 @@ artist_name
 * Radiohead              2295
 * The Black Keys         2221
 
-4. 
+The Beatles are a popular artist in listening history with over 13,000 plays
+The Killers and John Mayer make up the top 3 alongside The Beatles
+The top 10 shows a strong preference for rock and alternative genres
+Classic rock artists (Led Zeppelin, The Rolling Stones) feature prominently
+
+4. Low Skip Rate at around 5.25%
+This shows that the user has a well-curated playlist that matches their taste making them have to skip songs a lot less. They are more careful with music selection in their liked songs tab or playlists. Actively chooses what to listen to rather than relying on the shuffle feature.
+5. Top 10 Albums by listening time
+![image](https://github.com/user-attachments/assets/e83185ac-baf0-4ee8-8cfd-9d06ddeface5)
+"The New Abnormal" and "The Beatles" albums show the highest total listening time
+This user has a mix of classic albums (Abbey Road, Blood On The Tracks) and modern releases (Imploding The Mirage)
