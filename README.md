@@ -1,7 +1,8 @@
-## 🛍️ Exploring-Fashion-Trends-and-Sales-Metrics-Project
+## 🎧 Spotify-Listening-History-Analysis
 
-* This project analyzes a fashion retail dataset from the brand Zara spanning 2018-2022 to uncover key business insights and consumer behavior patterns in the e-commerce fashion industry.
-* This dataset captures the essence of fashion-related data over the span of 2018 to 2022. It contains entries for various fashion products, with details about their gender preference, category, pattern, color, age group target, seasonal preference, material, price, sales count, reviews, ratings, and more.
+*This project analyzes personal Spotify listening history to uncover listening patterns, favorite artists, and music consumption habits. Using Python and data analysis libraries, it provides insights into music listening behavior over time.
+
+*The dataset I used is a Spotify listening history dataset, containing information about tracks played, timestamps, play durations, platforms, and user behaviors (e.g., shuffle, skipped, reasons for starting/ending tracks). 
 * I approached this project by using the data analysis cycle consisting of:
   * Forming/Asking Questions
   * Data Wrangling
@@ -12,15 +13,15 @@
 
  **Through my analysis I answered the following questions:**
 
- * What products sell the most and least?
- * What are the top-selling fashion categories in each season?
- * How do different materials perform across seasons?
- * What is the relationship between wishlist additions and actual purchases?
- * What percentage of customers add products to their wish list but do not purchase them?
- * Which materials are most preferred by customers in each age group?
- * What is the correlation between average rating and sales count? Do highly-rated products sell better?
- * Are certain products more likely to be out of stock in specific seasons?
- * What are the most popular colors and patterns in fashion trends from 2018-2022?
+ * How does listening behavior change over different times of the day, days of the week, or months?
+ * Are there peaks in streaming activity (e.g., morning vs. evening listening)?
+ * Which tracks have the longest average play duration?
+ * Who are the top artists based on frequency of plays?
+ * Does the listening behavior differ across different platforms (if available) such as the web player versus mobile?
+ * What is the distribution of play durations in minutes, and are there outliers or tracks with unusually low or high play durations?
+ * Is there a relationship between play duration and whether a track was skipped?
+ * Which albums have the highest engagement, and does the context of play (e.g., autoplay vs. curated selection) vary by album?
+ * How often do users skip tracks, and are there patterns in the songs that tend to be skipped?
 
 ## 📌 Project Workflow
 1️⃣ **Data Collection & Cleaning** → Process raw data using Python.  
