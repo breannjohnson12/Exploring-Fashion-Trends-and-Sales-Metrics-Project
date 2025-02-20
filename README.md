@@ -23,8 +23,3 @@
  * Which albums have the highest engagement, and does the context of play (e.g., autoplay vs. curated selection) vary by album?
  * How often do users skip tracks, and are there patterns in the songs that tend to be skipped?
 
-## 📌 Project Workflow
-1️⃣ **Data Collection & Cleaning** → Process raw data using Python.  
-2️⃣ **Database Management** → Store cleaned data in PostgreSQL.  
-3️⃣ **Exploratory Data Analysis (EDA)** → Identify trends using Pandas & Seaborn.  
-4️⃣ **Visualization** → Create interactive Tableau dashboards.  
