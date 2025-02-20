@@ -23,3 +23,23 @@
  * Which albums have the highest engagement, and does the context of play (e.g., autoplay vs. curated selection) vary by album?
  * How often do users skip tracks, and are there patterns in the songs that tend to be skipped?
 
+## 🎧 Insights
+1. Creating a visualization that displays listening behavior by hour of day, I saw that listening activity experiences clear peaks around the afternoon/evening time period. This time period is usually when people are most active whether it's running errands, working, or even being at the gym. This means that people listen to more music when they are going about their day and completing daily activities.
+![image](https://github.com/user-attachments/assets/cc965c59-b79f-4625-a8da-a358eec3d9fc)
+2. The platform usage visualization shows what method users are using to use the Spotify player. Mobile usage is the highest, Android is the majority with IOS next. Web player shows minimal usage
+![image](https://github.com/user-attachments/assets/d24258a7-4cc1-4f53-8361-a2c9b0019449)
+3. Most Played Artists are as follows:
+
+artist_name
+* The Beatles           13530
+* The Killers            6748
+* John Mayer             4797
+* Bob Dylan              3790
+* Paul McCartney         2685
+* Led Zeppelin           2470
+* Johnny Cash            2467
+* The Rolling Stones     2367
+* Radiohead              2295
+* The Black Keys         2221
+
+4. 
